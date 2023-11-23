@@ -1,2 +1,2 @@
 # Poker-Engine
-<h2>Poker-Engine is designed to become a module that allows to Play Poker while calculating Probabilities of Winning, Losing, getting certain cards from a deck and other fun features!</h2>
+<h2>Poker-Engine is a module that allows to play Texas Hold'em poker while being able to monitor Winning, and Losing odds.</h2>
